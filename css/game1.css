@@ -27,14 +27,14 @@ body {
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.30);
     margin: auto;
-
-    #mazeCanvas {
+    margin-top: -160px;
+    transform: scale(0.55);
+}
+#mazeCanvas {
         margin: 0;
         display: block;
         border: solid 1px black;
     }
-}
-
 input,
 select {
     @include transition;
