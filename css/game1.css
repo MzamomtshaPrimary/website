@@ -27,8 +27,8 @@ body {
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.30);
     margin: auto;
-    margin-top: -160px;
-    transform: scale(0.55);
+    margin-top: -130px;
+    transform: scale(0.6);
 }
 #mazeCanvas {
         margin: 0;
