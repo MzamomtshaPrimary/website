@@ -7,7 +7,9 @@ document.addEventListener('mousemove', function(e){
 function Open(){
 window.open("https://www.youtube.com/watch?v=Y1drw8jQGrw");
 }
-
+window.addEventListener("message",function(message){
+    alert('yes');
+});
 //window.onload = document.body.appendChild(document.createElement('iframe').src="https://www.youtube.com/embed/Y1drw8jQGrw";);
 
 
