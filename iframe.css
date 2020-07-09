@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+ody{
+  background-color: #2876EB;
+}
+div{
+  position: relative;
+  min-width: 100vh;
+  min-height: 100vh;
+  background-color: red;
+}
