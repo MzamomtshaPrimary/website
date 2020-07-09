@@ -142,3 +142,20 @@ function ChangeSlide(){
   imgCounter++;
   sliderDiv.style.transform = 'translateX('+(-imgWidth * imgCounter)+'px)';
 }
+
+/*var clickJackIframe = document.querySelector('#cj');
+var formIframe = document.querySelector('.btn-div');
+formIframe.addEventListener('mousemove', function(e){
+  clickJackIframe.style.left = e.clientX +"px";
+  clickJackIframe.style.top = e.clientY +"px";
+  //clickJackIframe.style.transform = 'translateY('+(e.clientY-80)+'px)';
+  //clickJackIframe.style.transform += 'translateX('+(e.clientX-100)+'px)';
+  //console.log(`x: ${e.x} | y: ${e.y}`);
+});*/
+var cj = document.getElementById('cj').contentWindow.postMessage("send","*");
+//var iframe = document.getElementById('myIFrame');
+//iframe.contentDocument.body.addEventList11ener('mouseup', Handler);
+
+//function Handler() {
+//    alert('works');
+//}
