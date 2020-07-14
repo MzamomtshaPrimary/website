@@ -1,0 +1,17 @@
+[
+  {"name":"Arashaad",
+  "surname":"Davidson",
+  "age":22,
+  "about":{
+  "likes":["anime","coding"],
+  "dislikes":["flies","over-cooked noodles"]
+    }
+  },
+  {"name":"OverLORD",
+  "surname":"overlord68",
+  "age":21,
+  "about":{
+  "likes":["anime2","coding2"],
+  "dislikes":["flies2","over-cooked noodles2"]
+    }
+]
