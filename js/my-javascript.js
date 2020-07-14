@@ -159,3 +159,14 @@ var cj = document.getElementById('cj').contentWindow.postMessage("send","*");
 //function Handler() {
 //    alert('works');
 //}
+var req = new XMLHttpRequest();
+req.open('GET', 'https://github.com/MzamomtshaPrimary/website/blob/master/test.json');
+req.onload = ()=>{
+  console.log(req.responseText)  
+};
+req.send();
+
+
+
+
+
