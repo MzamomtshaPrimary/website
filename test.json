@@ -3,16 +3,16 @@
   "surname":"Davidson",
   "age":22,
   "about":{
-  "likes":["anime","coding"],
+  "likes":["Anime","Coding"],
   "dislikes":["flies","over-cooked noodles"]
     }
   },
   {"name":"OverLORD",
-  "surname":"overlord68",
+  "surname":"DeathKing",
   "age":21,
   "about":{
-  "likes":["anime2","coding2"],
-  "dislikes":["flies2","over-cooked noodles2"]
+  "likes":["Online Games","Sports"],
+  "dislikes":["War","Corruption/Evil"]
     }
   }
 ]
