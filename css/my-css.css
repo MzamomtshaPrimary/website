@@ -336,7 +336,7 @@ display: none;
 #form{
   border: 2px solid red;
   position: absolute;
-  right: 20%;
+  right: 200px;
   top: 20px;
   padding: 20px
 }
