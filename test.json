@@ -2,17 +2,28 @@
   {"name":"Arashaad",
   "surname":"Davidson",
   "age":22,
-  "about":{
-  "likes":["Anime","Coding"],
-  "dislikes":["flies","over-cooked noodles"]
-    }
+  "email":"example1@gmail.com",
+   "jobDescription":"Hacker"
   },
-  {"name":"OverLORD",
-  "surname":"DeathKing",
-  "age":21,
-  "about":{
-  "likes":["Online Games","Sports"],
-  "dislikes":["War","Corruption/Evil"]
-    }
+  {
+    "name":"OverLORD",
+    "surname":"DeathKing",
+    "age":21,
+    "email":"example2.gmail.com"
+    "jobDescription":"Developer"
+  },
+  {
+    "name":"Sarah",
+    "surname":"Queen",
+    "age":20,
+    "email":"example3.gmail.com"
+    "jobDescription":"Engineer"
+  },
+  {
+    "name":"Yusrah",
+    "surname":"Pillay",
+    "age":25,
+    "email":"example4.gmail.com"
+    "jobDescription":"Data Scientist"
   }
 ]
