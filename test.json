@@ -9,21 +9,21 @@
     "name":"OverLORD",
     "surname":"DeathKing",
     "age":21,
-    "email":"example2.gmail.com"
+    "email":"example2.gmail.com",
     "jobDescription":"Developer"
   },
   {
     "name":"Sarah",
     "surname":"Queen",
     "age":20,
-    "email":"example3.gmail.com"
+    "email":"example3.gmail.com",
     "jobDescription":"Engineer"
   },
   {
     "name":"Yusrah",
     "surname":"Pillay",
     "age":25,
-    "email":"example4.gmail.com"
+    "email":"example4.gmail.com",
     "jobDescription":"Data Scientist"
   }
 ]
